@@ -6,3 +6,7 @@ I also have a repo for all the DJI GO4 apks which can be found here https://gith
 
 let me know via flymyphantom@outlook.com if you want any other files adding to the tool
 
+V2
+
+Added 2 more GO apps 
+
